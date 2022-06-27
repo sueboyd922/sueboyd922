@@ -1,11 +1,14 @@
 
+## About
 Hi I'm Susan, a backend software developer who left the service industry behind for the world of technology. The journey started while learning Ruby on Rails at Turing School of Software and Design and I am looking forward to seeing where I can take it next. I have a knack for coming up with unique solutions to problems wherever they seem to pop up, great communication and interpersonal skills, and I have way too much fun organizing everything from a beer cooler to a carry-on sized backpack so imagine my delight with databases and object oriented programming. I thrive in fast paced environments, am quick to adapt to new situations and am constantly excited to learn.
 
 When I'm not consuming APIs I can be found consuming tacos in my kayak, hiking or exploring new places. 
 
 Feel free to check out my work! 
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Linked In" width="30" height="50"/> : https://www.linkedin.com/in/susan-boyd-6ba8749b/
-<img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Linked In" width="30" height="50"/> : sueboyd922@gmail.com
+
+<img align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linked In" width="30" height="30"/>: https://www.linkedin.com/in/susan-boyd-6ba8749b/
+
+<img align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Linked In" width="30" height="30"/>: sueboyd922@gmail.com
 
 
 ## 🧰 Toolbox
@@ -18,6 +21,8 @@ Feel free to check out my work!
 
 ## &#x1f4c8; GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sueboyd922&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sueboyd922&hide=java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sueboyd922&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sueboyd922&hide=java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
