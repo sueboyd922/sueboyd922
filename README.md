@@ -26,7 +26,7 @@ Feel free to check out my work!
 ## &#x1f4c8; GitHub Stats
 
 <section align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sueboyd922&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sueboyd922&show_icons=true&theme=tokyonight)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sueboyd922&hide=java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 </section>
