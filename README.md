@@ -4,8 +4,8 @@ Hi I'm Susan, a backend software developer who left the service industry behind 
 When I'm not consuming APIs I can be found consuming tacos in my kayak, hiking or exploring new places. 
 
 Feel free to check out my work! 
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Linked In" width="30" height="30"/> : https://www.linkedin.com/in/susan-boyd-6ba8749b/
-<img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Linked In" width="30" height="30"/> : sueboyd922@gmail.com
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Linked In" width="30" height="50"/> : https://www.linkedin.com/in/susan-boyd-6ba8749b/
+<img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Linked In" width="30" height="50"/> : sueboyd922@gmail.com
 
 
 ## 🧰 Toolbox
