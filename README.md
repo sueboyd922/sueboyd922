@@ -1,8 +1,10 @@
+# Susan Boyd (she/her)
+
 
 ## About
 Hi! I'm Susan, a backend software developer who left the service industry behind for the world of technology. The journey started while learning Ruby on Rails at Turing School of Software and Design and I am looking forward to seeing where I can take it next. 
 
-I have a knack for coming up with unique solutions to problems wherever they seem to pop up, great communication and interpersonal skills, and I have way too much fun organizing everything from a beer cooler to a carry-on sized backpack so imagine my delight with databases and object oriented programming. I thrive in fast paced environments, am quick to adapt to new situations and am constantly excited to learn.
+I have a knack for coming up with unique solutions to problems wherever they seem to pop up, great communication and interpersonal skills, and I have way too much fun organizing everything from a beer cooler to a carry-on sized backpack so imagine my delight with databases and object oriented programming. I thrive in fast paced environments, am quick to adapt to new situations and am constantly excited to learn. I believe that technology is best used to both help and connect people whether they are in the same community or across the globe!
 
 When I'm not consuming APIs I can be found consuming tacos in my kayak, hiking or exploring new places. 
 
