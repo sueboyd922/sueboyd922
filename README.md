@@ -9,7 +9,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sueboyd922&show_icons=true&theme=tokyonights) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sueboyd922&hide=java&theme=tokyonights)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sueboyd922&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sueboyd922&hide=java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 - 🔭 I’m currently working on ...
